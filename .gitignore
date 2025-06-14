@@ -1,0 +1,6 @@
+# Composer dependencies
+/vendor/
+/composer.lock
+/composer.phar
+
+/backend-assessment/vendor/

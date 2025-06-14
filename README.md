@@ -38,7 +38,7 @@ This project implements an optimized and scalable product search system for an e
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/rambir-bhatiwal/flash-sale-queue.git
+git clone https://github.com/rambir-bhatiwal/feature-scenario-2-search-optimization.git
 cd backend-assessment
 
 ```
